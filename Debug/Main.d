@@ -1,1 +1,0 @@
-Main.d: ../Main.c
